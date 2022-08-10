@@ -1,1 +1,1 @@
-** >  LOCAL HOST **
+>  LOCAL HOST
