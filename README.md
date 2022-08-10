@@ -12,5 +12,6 @@ D:\Users\sinix\Documents\FXServer\FXServer.exe +exec server.cfg
 
 En changeant les chemins d'accès tu rends possible le start  de ton serveur !
 
-Bonne chance à toi ! DISCORD.GG/SINIXDEV
+Bonne chance à toi ! DISCORD.GG/SINIXDEV !
+
 Des mises à jours toutes les 2 semaines sont faites !
